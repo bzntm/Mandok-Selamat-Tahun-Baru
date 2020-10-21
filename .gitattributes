@@ -20,6 +20,7 @@
 *.ogg             binary
 *.ra              binary
 *.wav             binary
+*.flp             binary
 
 #
 # Exclude files from exporting
