@@ -8,7 +8,7 @@
 
 # Prasyarat:
 
-<p>* Musikalitas (tonton video referensinya di http://youtu.be/TVCMkCpPUio, dan kreasikan sesuai kreativitas kalian, tapi jangan sampai ngerusak esensi lagunya)<br>
+<p>* Musikalitas (tonton playlist referensinya di http://www.youtube.com/playlist?list=PLIODVbiLLJWlMxnYylVp5PjDnC3BK6wH4, dan kreasikan sesuai kreativitas kalian, tapi jangan sampai ngerusak esensi lagunya)<br>
 * DAW (Repo ini ada file FLP/FL Projects, ditaro dalam satu file ZIP, tapi kalian bisa kok pake DAW apa aja, selama masih bisa nerima file MIDI)<br>
 * Keyboard MIDI (karena stem ini masih rada kentang, jadi aku butuh kalian sempurnain lagi, dan MIDInya WAJIB kalian colok sampai kalian kelar berurusan dengan project ini)<br>
 * Kalo kalian rencana mau pake FL Studio, aku kasih tau ye, ini dibikin pake FL Studio versi 20.7.2.1863, jadi pastiin kalian pake FL Studio minimal versi 20.7.2.1863<br>
@@ -25,7 +25,7 @@
 5. Buka folder yang kalian ekstrak<br>
 6a. Kalo kalian rencana mau pake FL Studio, Extract FL Project ZIP dengan nge-klik kanan di file ZIP FL Project ZIP, klik 7-Zip/WinRAR/WinZIP/Zip Extractor pihak ketiga lainnya, pilih Extract Here (Ekstrak di sini)<br>
 6b. Kalo kalian pake DAW lain, buka DAW yang biasa kalian pake, import file MIDI-nya (ada kok di folder MIDI Stem)<br>
-6c. Kalo kalian pengen remake lagu "Mandok Selamat Tahun Baru" dari 0, ada kok file instrument bank WAV-nya di folder utama (BUKAN DI MIDI STEM), dan <strong>JANGAN SAMPAI MENYIMPANG TERLALU JAUH</strong> dari <a href="http://youtu.be/TVCMkCpPUio">lagu referensi</a><br>
+6c. Kalo kalian pengen remake lagu "Mandok Selamat Tahun Baru" dari 0, ada kok file instrument bank WAV-nya di folder utama (BUKAN DI MIDI STEM), dan <strong>JANGAN SAMPAI MENYIMPANG TERLALU JAUH</strong> dari <a href="http://www.youtube.com/playlist?list=PLIODVbiLLJWlMxnYylVp5PjDnC3BK6wH4">lagu referensi</a><br>
 7. Semangat!</p>
 
 <p>MacOS dan Linux:<br>
@@ -40,7 +40,7 @@ Terus pencet Enter<br>
 5. Buka folder project yang udah kalian bikin<br>
 6a. (Khusus MacOS) Kalo kalian mau pake FL Studio, cukup dobel klik file ZIP FL Project, terus tinggal buka deh file FLP-nya<br>
 6b. (Kalo kalian mau pake DAW lain di MacOS atau kalian pake Linux---karena Linux ga ada FL Studio dan aku ga saranin pake Wine atau solusi emulator/virtualisasi lainnya) Buka DAW kalian, import file MIDI-nya (ada kok di folder MIDI Stem)<br>
-6c. Kalo kalian pengen remake lagu "Mandok Selamat Tahun Baru" dari 0, ada kok file instrument bank WAV-nya di folder utama (BUKAN DI MIDI STEM), dan <strong>JANGAN SAMPAI MENYIMPANG TERLALU JAUH</strong> dari <a href="http://youtu.be/TVCMkCpPUio">lagu referensi</a><br>
+6c. Kalo kalian pengen remake lagu "Mandok Selamat Tahun Baru" dari 0, ada kok file instrument bank WAV-nya di folder utama (BUKAN DI MIDI STEM), dan <strong>JANGAN SAMPAI MENYIMPANG TERLALU JAUH</strong> dari <a href="http://www.youtube.com/playlist?list=PLIODVbiLLJWlMxnYylVp5PjDnC3BK6wH4">lagu referensi</a><br>
 7. Semangat!</p>
 
 # Ucapan Terima Kasih dan Salam:
