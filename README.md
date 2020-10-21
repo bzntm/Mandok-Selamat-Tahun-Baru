@@ -30,9 +30,9 @@
   1. Make sure you've fulfilled all the prerequisites<br>
   2. Create a project folder on separate partition/drive or any place where you usually put your DAW projects<br>
   3. Open terminal, then cd to the project folder that you've made<br>
-  > Pro tip: you can cd easily by just type cd<space>, then drag and drop the destination folder to the terminal<br>
+  <blockquote>Pro tip: you can cd easily by just type cd<space>, then drag and drop the destination folder to the terminal</blockquote><br>
   4. Without closing terminal, Clone this repository by typing:<br>
-  > git clone http://github.com/bzntm/Mandok-Selamat-Tahun-Baru.git<br>
+  <blockquote>git clone http://github.com/bzntm/Mandok-Selamat-Tahun-Baru.git</blockquote><br>
   5. Open the project folder that you've made<br>
   6a. (MacOS Only) if you plan to use FL Studio, just double click the FL Project ZIP<br>
   6b. (If you plan to use other DAWs on MacOS or if you're using Linux---since Linux lacks FL Studios, and Wine, virtualization, or any emulators are suck) Open your preferred DAW, import the MIDI file (saved in MIDI Stem folder)<br>
