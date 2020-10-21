@@ -9,7 +9,7 @@
 # Pre-requisites:
 * Musical instinct (watch the reference video on http://youtu.be/TVCMkCpPUio, then you can feel free to improve without wrecking the song's essence, such as sampling the original voice and make a beat drop or just retuning so it'll sounds better)<br>
 * Digital Audio Workstations (this repository contains FL Studio Project files, packed in a ZIP file, however, you can use any DAW which can accepts MIDI file)<br>
-* MIDI keyboard (since this stem is still far from perfect, you can improve it by re-implementing the reference video on http://youtu.be/TVCMkCpPUio, and make sure your MIDI keyboard is connected before you launch any DAW)<br>
+* MIDI keyboard (since this stem is still far from perfect, you can improve it by re-implementing the reference video on http://youtu.be/TVCMkCpPUio, and make sure your MIDI keyboard is connected before you launch any DAW, and don't remove it until the arranging process is finished)<br>
 * FL Studio version 20.7.2.1863 or later (if you plan to use FL Studio, skip this part if you're using other DAW, such as Cubase, Reaper, Pro Tools, Logic, and such)<br>
 * Third Party ZIP extractor (for Windows, since Windows' own ZIP extractor may not work on highly compressed ZIP file)
 * Latest and Initialized <strong>git</strong> (MacOS and Linux only)
