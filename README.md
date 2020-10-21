@@ -7,7 +7,7 @@
 <p>This stems and projects is licensed using GNU-GPL v3, so you <strong>MUST</strong> credit HKBP Simare-Mare Jae in your final project.</p>
 
 # Pre-requisites:
-* Musical instinct (watch the reference video on http://youtu.be/TVCMkCpPUio, then you can feel free to improve without wrecking the song's essence, such as sampling the original voice and make a beat drop or just retuning so it'll sounds better)<br>
+* Musical instinct (watch the reference video on http://www.youtube.com/playlist?list=PLIODVbiLLJWlMxnYylVp5PjDnC3BK6wH4, then you can feel free to improve without wrecking the song's essence, such as sampling the original voice and make a beat drop or just retuning so it'll sounds better)<br>
 * Digital Audio Workstations (this repository contains FL Studio Project files, packed in a ZIP file, however, you can use any DAW which can accepts MIDI file)<br>
 * MIDI keyboard (since this stem is still far from perfect, you can improve it by re-implementing the reference playlist on https://www.youtube.com/playlist?list=PLIODVbiLLJWlMxnYylVp5PjDnC3BK6wH4, and make sure your MIDI keyboard is connected before you launch any DAW, and don't remove it until the arranging process is finished)<br>
 * FL Studio version 20.7.2.1863 or later (if you plan to use FL Studio, skip this part if you're using other DAW, such as Cubase, Reaper, Pro Tools, Logic, and such)<br>
