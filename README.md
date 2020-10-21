@@ -12,7 +12,7 @@
 * MIDI keyboard (since this stem is still far from perfect, you can improve it by re-implementing the reference playlist on https://www.youtube.com/playlist?list=PLIODVbiLLJWlMxnYylVp5PjDnC3BK6wH4, and make sure your MIDI keyboard is connected before you launch any DAW, and don't remove it until the arranging process is finished)<br>
 * FL Studio version 20.7.2.1863 or later (if you plan to use FL Studio, skip this part if you're using other DAW, such as Cubase, Reaper, Pro Tools, Logic, and such)<br>
 * Third Party ZIP extractor (for Windows, since Windows' own ZIP extractor may not work on highly compressed ZIP file)
-* Latest and Initialized <strong>git</strong> (MacOS and Linux only)
+* Latest <strong>git</strong> installed, and initialize the <strong>git</strong> before you can use it (MacOS and Linux only)
 * Desktop Environment and Window Management with full mouse support, such as GNOME, KDE, whatever (Linux Only)---don't be a total idiot
 
 # How to use:
