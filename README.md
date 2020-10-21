@@ -24,6 +24,7 @@
   5. Open the extracted folder<br>
   6a. If you plan to use FL Studio, extract the FL Project ZIP by right click, choose 7-Zip/WinRAR/WinZIP/whatever third party ZIP extractor, select Extract Here, and open the FLP file<br>
   6b. If you plan to use other DAW, open your preferred DAW, import the MIDI file (saved in MIDI Stem folder)<br>
+6c. If you want to write it from scratch, WAV Instrument Banks also available in main folder, but you <strong>MUST NOT</strong> deviate from [this reference](http://youtu.be/TVCMkCpPUio)<br>
   7. Have fun!</p>
 
 <p>MacOS and Linux:<br>
@@ -38,7 +39,9 @@
   5. Open the project folder that you've made<br>
   6a. (MacOS Only) if you plan to use FL Studio, just double click the FL Project ZIP, then open the FLP File<br>
   6b. (If you plan to use other DAWs on MacOS or if you're using Linux---since Linux lacks FL Studios, and Wine, virtualization, or any emulators are suck) Open your preferred DAW, import the MIDI file (saved in MIDI Stem folder)<br>
+6c. If you want to write it from scratch, WAV Instrument Banks also available in main folder, but you <strong>MUST NOT</strong> deviate from [this reference](http://youtu.be/TVCMkCpPUio)<br>
   7. Have fun!</p>
+
   
 # Credits and Shout-outs:
 * Jesus Christ
