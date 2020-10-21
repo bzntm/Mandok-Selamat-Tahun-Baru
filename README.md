@@ -33,6 +33,8 @@
   <blockquote>Pro tip: you can cd easily by just type cd<space>, then drag and drop the destination folder to the terminal</blockquote><br>
   4. Without closing terminal, Clone this repository by typing:<br>
   <blockquote>git clone http://github.com/bzntm/Mandok-Selamat-Tahun-Baru.git</blockquote><br>
+    Then press Enter<br>
+    <blockquote>Pro tip: you can copy-paste the git clone command above to save your very precious time</blockquote><br>
   5. Open the project folder that you've made<br>
   6a. (MacOS Only) if you plan to use FL Studio, just double click the FL Project ZIP<br>
   6b. (If you plan to use other DAWs on MacOS or if you're using Linux---since Linux lacks FL Studios, and Wine, virtualization, or any emulators are suck) Open your preferred DAW, import the MIDI file (saved in MIDI Stem folder)<br>
