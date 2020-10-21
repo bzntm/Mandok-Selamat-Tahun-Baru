@@ -36,7 +36,7 @@
     Then press Enter<br>
     <blockquote>Pro tip: you can copy-paste the git clone command above to save your very precious time</blockquote><br>
   5. Open the project folder that you've made<br>
-  6a. (MacOS Only) if you plan to use FL Studio, just double click the FL Project ZIP<br>
+  6a. (MacOS Only) if you plan to use FL Studio, just double click the FL Project ZIP, then open the FLP File<br>
   6b. (If you plan to use other DAWs on MacOS or if you're using Linux---since Linux lacks FL Studios, and Wine, virtualization, or any emulators are suck) Open your preferred DAW, import the MIDI file (saved in MIDI Stem folder)<br>
   7. Have fun!</p>
   
