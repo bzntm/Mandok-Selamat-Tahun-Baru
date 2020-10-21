@@ -21,6 +21,8 @@
 *.ra              binary
 *.wav             binary
 *.flp             binary
+*.fst             binary
+*.fsc             binary
 
 #
 # Exclude files from exporting
