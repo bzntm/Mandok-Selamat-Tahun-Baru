@@ -5,7 +5,7 @@
 
 # Warning:
 <p>This stems and projects is licensed using GNU-GPL v3, so you <strong>MUST</strong> credit HKBP Simare-Mare Jae in your final project.</p><br>
-<p>The WAV instrument banks can only opened on FL Studio (tested by me)</p>
+<p>The WAV instrument banks (Ahh, Ohh, OSTR) can only opened on FL Studio (tested by me)</p>
 
 # Pre-requisites:
 * Musical instinct (watch the reference playlist on http://www.youtube.com/playlist?list=PLIODVbiLLJWlMxnYylVp5PjDnC3BK6wH4, then you can feel free to improve without wrecking the song's essence, such as sampling the original voice and make a beat drop or just retuning so it'll sounds better)<br>
