@@ -4,7 +4,8 @@
 <p>"Mandok Selamat Tahun Baru" adalah lagu rakyat yang dinyanyikan oleh anak-anak (lebih spesifiknya, anak Sekolah Minggu HKBP Simare-Mare Jae) setiap tanggal 1 Januari.</p>
 
 # Peringatan:
-<p>Stem ini dilisensikan dengan GNU-GPL v3, jadi jangan lupa <strong>(WAJIB, PAKE BANGET)</strong> buat nyantumin "HKBP Simare-Mare Jae" di daftar credit kalian yaaa</p>
+<p>Stem ini dilisensikan dengan GNU-GPL v3, jadi jangan lupa <strong>(WAJIB, PAKE BANGET)</strong> buat nyantumin "HKBP Simare-Mare Jae" di daftar credit kalian yaaa</p><br>
+<p>File instrument bank (Choir Ahh, Choir Ohh, dan String sample/OSTR) cuman bisa dibuka di FL Studio</p>
 
 # Prasyarat:
 
@@ -46,12 +47,16 @@ Terus pencet Enter<br>
 # Ucapan Terima Kasih dan Salam:
 
 * Tuhan Yesus Kristus
+* Keluarga Besar UPN Veteran (Jakarta, Jogja, Jawa Timur)
 * Federica Aster Manurung dan keluarga besar
 * Yofani Helena Simamora dan keluarga besar
 * Jemaat HKBP Simare-Mare Jae
 * Nelly Intan Anastasya Hutajulu dan keluarga besar
 * Helena Olivia Yosih Parhusip dan keluarga besar
 * Sekolah Citra Berkat
+* PSKD
+* Warga Dairi
+* La Barsa Familia (Warga Cibarusah)
 * Mentor dan inspirasiku (Raja Timotius Arbesis Samosir, Agus "ArtSonica" Hardiman, Eka Gustiwana)
 * Marsya Maria Patrecia Mahulae dan keluarga besar
 * Yesaya Enrico Chris John Simatupang dan keluarga besar
