@@ -4,7 +4,8 @@
 <p>"Mandok Selamat Tahun Baru" is a Bataknese Folk Song, sung by children (i mean, Sunday School Students) of HKBP Simare-Mare Jae, Laguboti, Toba-Samosir, North Sumatera every New Year (January 1st).</p>
 
 # Warning:
-<p>This stems and projects is licensed using GNU-GPL v3, so you <strong>MUST</strong> credit HKBP Simare-Mare Jae in your final project.</p>
+<p>This stems and projects is licensed using GNU-GPL v3, so you <strong>MUST</strong> credit HKBP Simare-Mare Jae in your final project.</p><br>
+<p>The WAV instrument banks can only opened on FL Studio (tested by me)</p>
 
 # Pre-requisites:
 * Musical instinct (watch the reference playlist on http://www.youtube.com/playlist?list=PLIODVbiLLJWlMxnYylVp5PjDnC3BK6wH4, then you can feel free to improve without wrecking the song's essence, such as sampling the original voice and make a beat drop or just retuning so it'll sounds better)<br>
@@ -45,6 +46,7 @@
   
 # Credits and Shout-outs:
 * Jesus Christ
+* Universitas Pembangunan Nasional Veteran big families (Jakarta, Jogjakarta, and East Java)
 * Federica Aster Manurung and her big families
 * Yofani Helena Simamora and her big families
 * HKBP Simare-mare Jae's congregation
@@ -55,5 +57,8 @@
 * Marsya Maria Patrecia Mahulae and big families
 * Yesaya Enrico Chris John Simatupang and his big families
 * Robin Marbun and his big families
+* PSKD school
+* Dairi citizens
+* La Cibarusah Familia (all Cibarusah citizens)
 * Toba-Samosir and Pulo Samosir citizens
 * And much more, which i cannot mention here.
